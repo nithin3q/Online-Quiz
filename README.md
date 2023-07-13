@@ -1,2 +1,5 @@
 # Online-Quiz
-web based quiz appalacation with database integration
+web based quiz application with database integration
+include sql file
+developed using php
+login credentials
